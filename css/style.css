@@ -76,7 +76,7 @@ h1 {
 	background-position: center center;
 	background-size: contain;
 	background-repeat: no-repeat;
-	border: 2px solid skyblue;
+	border: 2px solid #FFEB2E;
 }
 
 .slides > .slides-pagination > li:nth-child(1) {
